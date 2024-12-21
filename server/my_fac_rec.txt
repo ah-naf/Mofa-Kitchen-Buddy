@@ -1,0 +1,63 @@
+# RECIPE START
+Title: Chocolate Cake
+Ingredients: flour, sugar, cocoa powder, eggs, butter
+Instructions: 
+  Mix dry ingredients, add the eggs, and stir until smooth. 
+  Bake at 350°F (180°C) for 30 minutes.
+Taste: sweet
+Cuisine: dessert
+PrepTime: 45
+Reviews: 52
+# RECIPE END
+
+# RECIPE START
+Title: Spaghetti Aglio e Olio
+Ingredients: spaghetti, olive oil, garlic, red chili flakes, parsley, salt
+Instructions: 
+  Boil the spaghetti in salted water. 
+  Meanwhile, sauté garlic and chili flakes in olive oil. 
+  Drain the pasta and combine with the garlic oil mixture. 
+  Top with chopped parsley.
+Taste: savory
+Cuisine: Italian
+PrepTime: 20
+Reviews: 25
+# RECIPE END
+
+# RECIPE START
+Title: Avocado Toast
+Ingredients: bread, avocado, salt, pepper, lemon juice
+Instructions:
+  Toast the bread. 
+  Mash the avocado with salt, pepper, and a squeeze of lemon. 
+  Spread on toast.
+Taste: mild
+Cuisine: breakfast
+PrepTime: 5
+Reviews: 10
+# RECIPE END
+
+# RECIPE START
+Title: Chicken Curry
+Ingredients: chicken, onion, garlic, ginger, curry powder, coconut milk, salt, oil
+Instructions:
+  Sauté onion, garlic, and ginger in oil. 
+  Add chicken and curry powder, cook until chicken is sealed. 
+  Pour in coconut milk and simmer until chicken is cooked through.
+Taste: spicy
+Cuisine: Indian
+PrepTime: 30
+Reviews: 40
+# RECIPE END
+
+# RECIPE START
+Title: Caesar Salad
+Ingredients: romaine lettuce, croutons, parmesan cheese, caesar dressing
+Instructions:
+  Chop romaine lettuce. 
+  Toss lettuce with croutons, parmesan cheese, and caesar dressing.
+Taste: savory
+Cuisine: American
+PrepTime: 10
+Reviews: 18
+# RECIPE END
