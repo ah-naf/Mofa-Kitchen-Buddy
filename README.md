@@ -1,4 +1,5 @@
 # Mofa-Kitchen-Buddy
+- Route: /notices api/chatbot post 
 input 
 ```json
 {
